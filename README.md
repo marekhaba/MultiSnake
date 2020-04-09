@@ -1,2 +1,3 @@
 # MultiSnake
-Normal snake but with multiple snakes
+Snake but with multiple snakes.
+Requires **pygame**
